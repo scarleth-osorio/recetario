@@ -1,0 +1,122 @@
+
+body {
+  font-size: 14px;
+  background-color:#F0EDC5;
+  font-family: 'Inter', sans-serif;
+  width: 100%;
+}
+
+.imagen1 {
+  width: 123px;
+  height: 56px;
+  background: url("../images/v55_44.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  top: 18px;
+  left: 119px;
+  overflow: hidden;
+}
+.texto1 {
+  width: 100%;
+  color: rgba(121,134,38,1);
+  position: absolute;
+  top: 105px;
+  left: 34px;
+  font-family: 'Inter', sans-serif;  font-weight: Regular;
+  font-size: 14px;
+  text-align: left;
+}
+.texto2 {
+  width: 100%;
+  color: rgba(121,134,38,1);
+  position: absolute;
+  top: 268px;
+  left: 34px;
+  font-family: 'Inter', sans-serif;  font-weight: Regular;
+  font-size: 14px;
+  text-align: left;
+}
+.texto3 {
+  width: 100%;
+  color: rgba(121,134,38,1);
+  position: absolute;
+  top: 515px;
+  left: 34px;
+  font-family: 'Inter', sans-serif;  font-weight: Regular;
+  font-size: 14px;
+  text-align: left;
+}
+.texto4 {
+  width: 100%;
+  color: rgba(121,134,38,1);
+  position: absolute;
+  top: 686px;
+  left: 34px;
+  font-family: 'Inter', sans-serif;  font-weight: bold;
+  font-size: 14px;
+  text-align: left;
+}
+.texto5 {
+  width: 100%;
+  color: rgba(121,134,38,1);
+  position: absolute;
+  top: 730px;
+  left: 34px;
+  font-family: 'Inter', sans-serif;  font-weight: Regular;
+  font-size: 14px;
+  text-align: left;
+}
+.texto6 {
+  width: 100%;
+  color: rgba(121,134,38,1);
+  position: absolute;
+  top: 923px;
+  left: 34px;
+  font-family: 'Inter', sans-serif;  font-weight: bold;
+    font-size: 14px;
+  text-align: left;
+}
+.texto7 {
+  width: 100%;
+  color: rgba(121,134,38,1);
+  position: absolute;
+  top: 963px;
+  left: 34px;
+  font-family: 'Inter', sans-serif;  font-weight: Regular;
+  font-size: 14px;
+  text-align: left;
+}
+.texto8 {
+  width: 100%;
+  color: rgba(121,134,38,1);
+  position: absolute;
+  top: 1123px;
+  left: 33px;
+  font-family: 'Inter', sans-serif;  font-weight: bold;
+    font-size: 14px;
+  text-align: left;
+}
+.texto9 {
+  width: 100%;
+    color: rgba(121,134,38,1);
+  position: absolute;
+  top: 1180px;
+  left: 34px;
+  font-family: 'Inter', sans-serif;  font-weight: Regular;
+  font-size: 14px;
+  text-align: left;
+}
+.imagen2 {
+  width: 195px;
+  height: 89px;
+  background: url("../images/v55_62.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  top: 1431px;
+  left: 84px;
+  overflow: hidden;
+}
